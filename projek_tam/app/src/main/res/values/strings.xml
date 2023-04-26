@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- welcome_page strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="username_ek1_string">Username</string>
+	<string name="password_string">Password</string>
+	<string name="hi_string">Hi</string>
+	<string name="welcome_again__string">Welcome Again!</string>
+	<string name="please_fill_in_your_correct_details__string">Please fill in your correct details.</string>
+	<string name="login_string">Login</string>
+	<string name="continue_with_google_string">Continue with GOOGLE</string>
+	<string name="or_string">or</string>
+	<string name="_create_new_account_string">Create New Account</string>
+	<string name="phone_number_string">Phone Number</string>
+	<string name="create_your_string">Create your</string>
+	<string name="account__today__string">Account, Today!</string>
+	<string name="create_account_string">Create Account</string>
+	<string name="sign_in_to_your_account_string">Sign In to your Account</string>
+</resources>
