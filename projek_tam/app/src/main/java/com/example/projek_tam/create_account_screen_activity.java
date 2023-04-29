@@ -57,7 +57,16 @@ public class create_account_screen_activity extends Activity {
 		sign_in_to_your_account = (TextView) findViewById(R.id.sign_in_to_your_account);
 	
 		
-		//custom code goes here
+		create_account.setOnClickListener(new View.OnClickListener() {
+
+			public void onClick(View v) {
+
+				Intent nextScreen = new Intent(getApplicationContext(), verified_activity.class);
+				startActivity(nextScreen);
+
+
+			}
+		});
 	
 	}
 }
